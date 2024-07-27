@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GameLearn\\Block Puzzle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7884720C-D7C5-96ED-373C-0C47C95EB205}|Assembly-CSharp.csproj|d:\\gamelearn\\block puzzle\\assets\\script\\biencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7884720C-D7C5-96ED-373C-0C47C95EB205}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\biencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7884720C-D7C5-96ED-373C-0C47C95EB205}|Assembly-CSharp.csproj|D:\\GameLearn\\Block Puzzle\\assets\\script\\blockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7884720C-D7C5-96ED-373C-0C47C95EB205}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\blockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7884720C-D7C5-96ED-373C-0C47C95EB205}|Assembly-CSharp.csproj|d:\\gamelearn\\block puzzle\\assets\\script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7884720C-D7C5-96ED-373C-0C47C95EB205}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7884720C-D7C5-96ED-373C-0C47C95EB205}|Assembly-CSharp.csproj|D:\\GameLearn\\Block Puzzle\\assets\\script\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7884720C-D7C5-96ED-373C-0C47C95EB205}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\GameLearn\\Block Puzzle\\Assets\\Script\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SoundManager.cs",
+              "ToolTip": "D:\\GameLearn\\Block Puzzle\\Assets\\Script\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Script\\SoundManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:26:35.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BienController.cs",
+              "DocumentMoniker": "D:\\GameLearn\\Block Puzzle\\Assets\\Script\\BienController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BienController.cs",
+              "ToolTip": "D:\\GameLearn\\Block Puzzle\\Assets\\Script\\BienController.cs",
+              "RelativeToolTip": "Assets\\Script\\BienController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAlwCUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:27:13.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlockController.cs",
+              "DocumentMoniker": "D:\\GameLearn\\Block Puzzle\\Assets\\Script\\BlockController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BlockController.cs",
+              "ToolTip": "D:\\GameLearn\\Block Puzzle\\Assets\\Script\\BlockController.cs",
+              "RelativeToolTip": "Assets\\Script\\BlockController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:27:03.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "D:\\GameLearn\\Block Puzzle\\Assets\\Script\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameOver.cs",
+              "ToolTip": "D:\\GameLearn\\Block Puzzle\\Assets\\Script\\GameOver.cs",
+              "RelativeToolTip": "Assets\\Script\\GameOver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:06:21.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
